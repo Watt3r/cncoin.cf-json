@@ -1,0 +1,31 @@
+{
+  "pools" : [{
+      "name":"monkeytips",
+      "tkr":"mtips",
+      "api":"http://cncoin.cf:8317",
+      "link":"http://mtips.cncoin.cf",
+      "logo":"monkeytips/logo.png",
+      "bitcointalk":"https://bitcointalk.org/index.php?topic=4595900.0",
+      "website":"http://monkeytips.xyz",
+      "discord":"https://discord.gg/pMCx8FX"
+  }, {
+      "name":"amitycoin",
+      "tkr":"amit",
+      "api":"http://cncoin.cf:8217",
+      "link":"http://amity.cncoin.cf",
+      "logo":"amity/logo.png",
+      "bitcointalk":"#",
+      "website":"http://amitycoin.tk",
+      "discord":"https://discord.gg/DVnYFGr"
+  }, {
+      "name":"roto2coin",
+      "tkr":"roto2",
+      "api":"http://cncoin.cf:8117",
+      "link":"http://roto2.cncoin.cf",
+      "logo":"roto2coin/logo.png",
+      "bitcointalk":"https://bitcointalk.org/index.php?topic=4989199.0",
+      "website":"http://roto2coin.me",
+      "discord":"https://discord.gg/EhyTEEN"
+  }],
+  "version": "v0.1.0"
+}
