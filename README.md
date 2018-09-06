@@ -1,0 +1,1 @@
+# cncoin.cf-json
