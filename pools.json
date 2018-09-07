@@ -2,7 +2,7 @@
   "pools" : [{
       "name":"monkeytips",
       "tkr":"mtips",
-      "api":"http://cncoin.cf:8317",
+      "api":"https://mtips.cncoin.cf/api/",
       "link":"http://mtips.cncoin.cf",
       "logo":"monkeytips/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=4595900.0",
@@ -11,7 +11,7 @@
   }, {
       "name":"amitycoin",
       "tkr":"amit",
-      "api":"http://cncoin.cf:8217",
+      "api":"https://amity.cncoin.cf/api/",
       "link":"http://amity.cncoin.cf",
       "logo":"amity/logo.png",
       "bitcointalk":"#",
@@ -20,7 +20,7 @@
   }, {
       "name":"roto2coin",
       "tkr":"roto2",
-      "api":"http://cncoin.cf:8117",
+      "api":"https://roto2.cncoin.cf/api/",
       "link":"http://roto2.cncoin.cf",
       "logo":"roto2coin/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=4989199.0",
