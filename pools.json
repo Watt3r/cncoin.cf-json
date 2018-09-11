@@ -26,6 +26,15 @@
       "bitcointalk":"https://bitcointalk.org/index.php?topic=4989199.0",
       "website":"http://roto2coin.me",
       "discord":"https://discord.gg/EhyTEEN"
+  }, {
+      "name":"lumeneo",
+      "tkr":"lmo",
+      "api":"https://lumeneo.cncoin.cf/api/",
+      "link":"https://lumeneo.cncoin.cf",
+      "logo":"lumeneo/logo.png",
+      "bitcointalk":"https://bitcointalk.org/index.php?topic=4832535",
+      "website":"https://lumeneo.network",
+      "discord":"https://discord.gg/hxgPaEW"
   }],
   "version": "v0.1.0"
 }
