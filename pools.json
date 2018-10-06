@@ -35,6 +35,15 @@
       "bitcointalk":"https://bitcointalk.org/index.php?topic=4832535",
       "website":"https://lumeneo.network",
       "discord":"https://discord.gg/hxgPaEW"
+  }, {
+      "name":"eggdracoin",
+      "tkr":"egg",
+      "api":"https://egg.cncoin.cf/api/",
+      "link":"https://egg.cncoin.cf",
+      "logo":"eggdracoin/logo.png",
+      "bitcointalk":"#",
+      "website":"http://eggdra.com",
+      "discord":"https://discord.gg/a3PNU9j"
   }],
   "version": "v0.1.0"
 }
