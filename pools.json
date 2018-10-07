@@ -9,15 +9,6 @@
       "website":"http://monkeytips.xyz",
       "discord":"https://discord.gg/pMCx8FX"
   }, {
-      "name":"amitycoin",
-      "tkr":"amit",
-      "api":"https://amity.cncoin.cf/api/",
-      "link":"https://amity.cncoin.cf",
-      "logo":"amity/logo.png",
-      "bitcointalk":"#",
-      "website":"http://amitycoin.tk",
-      "discord":"https://discord.gg/DVnYFGr"
-  }, {
       "name":"roto2coin",
       "tkr":"roto2",
       "api":"https://roto2.cncoin.cf/api/",
