@@ -35,6 +35,15 @@
       "bitcointalk":"#",
       "website":"http://eggdra.com",
       "discord":"https://discord.gg/a3PNU9j"
+  }, {
+      "name":"cypruscoin",
+      "tkr":"xcy",
+      "api":"https://xcy.cncoin.cf/api/",
+      "link":"https://cyprus.cncoin.cf",
+      "logo":"cyprus/logo.png",
+      "bitcointalk":"#",
+      "website":"http://mycypruscoin.com",
+      "discord":"#"
   }],
   "version": "v0.1.0"
 }
