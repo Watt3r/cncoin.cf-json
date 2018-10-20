@@ -38,7 +38,7 @@
   }, {
       "name":"cypruscoin",
       "tkr":"xcy",
-      "api":"https://xcy.cncoin.cf/api/",
+      "api":"https://cyprus.cncoin.cf/api/",
       "link":"https://cyprus.cncoin.cf",
       "logo":"cyprus/logo.png",
       "bitcointalk":"#",
