@@ -17,6 +17,15 @@
       "bitcointalk":"#",
       "website":"http://mycypruscoin.com",
       "discord":"https://discord.gg/fHd5Y3V"
+  }, {
+      "name":"nibbleclassic",
+      "tkr":"nbx",
+      "api":"https://nibble.cncoin.cf/api/",
+      "link":"https://nibble.cncoin.cf",
+      "logo":"nibble/logo.png",
+      "bitcointalk":"#",
+      "website":"http://nibble-nibble.com",
+      "discord":"https://discord.gg/jzdt9Ck"
   }],
   "version": "v0.1.0"
 }
