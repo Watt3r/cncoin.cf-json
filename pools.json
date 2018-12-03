@@ -26,6 +26,15 @@
       "bitcointalk":"#",
       "website":"http://nibble-nibble.com",
       "discord":"https://discord.gg/jzdt9Ck"
+  }, {
+      "name":"catalyst",
+      "tkr":"cx",
+      "api":"https://catalyst.cncoin.cf/api/",
+      "link":"https://catalyst.cncoin.cf",
+      "logo":"catalyst/logo.png",
+      "bitcointalk":"#",
+      "website":"http://www.cryptocatalyst.net",
+      "discord":"https://discord.gg/8hcZJ7v"
   }],
   "version": "v0.1.0"
 }
