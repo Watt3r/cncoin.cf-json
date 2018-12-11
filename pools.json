@@ -35,6 +35,15 @@
       "bitcointalk":"https://bitcointalk.org/index.php?topic=5081758.new",
       "website":"http://www.cryptocatalyst.net",
       "discord":"https://discord.gg/8hcZJ7v"
+  }, {
+      "name":"aeonclassic",
+      "tkr":"xmlc",
+      "api":"https://aeonclassic.cncoin.cf/api/",
+      "link":"https://aeonclassic.cncoin.cf",
+      "logo":"aeonclassic/logo.png",
+      "bitcointalk":"#",
+      "website":"https://aeonclassic.org/",
+      "discord":"https://discord.gg/pF8Es6w"
   }],
   "version": "v0.1.0"
 }
