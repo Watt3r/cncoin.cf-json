@@ -1,14 +1,5 @@
 {
   "pools" : [{
-      "name":"roto2coin",
-      "tkr":"roto2",
-      "api":"https://roto2.cncoin.cf/api/",
-      "link":"https://roto2.cncoin.cf",
-      "logo":"roto2coin/logo.png",
-      "bitcointalk":"https://bitcointalk.org/index.php?topic=4989199.0",
-      "website":"http://roto2coin.me",
-      "discord":"https://discord.gg/EhyTEEN"
-  }, {
       "name":"cypruscoin",
       "tkr":"xcy",
       "api":"https://cyprus.cncoin.cf/api/",
