@@ -7,7 +7,8 @@
       "logo":"cyprus/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=5053829",
       "website":"http://mycypruscoin.com",
-      "discord":"https://discord.gg/fHd5Y3V"
+      "discord":"https://discord.gg/fHd5Y3V",
+      "lowestPort":3700
   }, {
       "name":"nibbleclassic",
       "tkr":"nbx",
@@ -16,7 +17,8 @@
       "logo":"nibble/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=5080204.msg48453425#msg48453425",
       "website":"http://nibble-nibble.com",
-      "discord":"https://discord.gg/jzdt9Ck"
+      "discord":"https://discord.gg/jzdt9Ck",
+      "lowestPort":3303
   }, {
       "name":"catalyst",
       "tkr":"cx",
@@ -25,7 +27,8 @@
       "logo":"catalyst/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=5081758.new",
       "website":"http://www.cryptocatalyst.net",
-      "discord":"https://discord.gg/8hcZJ7v"
+      "discord":"https://discord.gg/8hcZJ7v",
+      "lowestPort":3400
   }, {
       "name":"aeonclassic",
       "tkr":"xmlc",
@@ -34,7 +37,8 @@
       "logo":"aeonclassic/logo.png",
       "bitcointalk":"#",
       "website":"https://aeonclassic.org/",
-      "discord":"https://discord.gg/pF8Es6w"
+      "discord":"https://discord.gg/pF8Es6w",
+      "lowestPort":3900
   }, {
       "name":"wrkz",
       "tkr":"wrkz",
@@ -43,7 +47,8 @@
       "logo":"wrkz/logo.png",
       "bitcointalk":"https://bitcointalk.org/index.php?topic=4537801.0",
       "website":"http://www.wrkz.work/",
-      "discord":"https://discord.gg/GpHzURM"
+      "discord":"https://discord.gg/GpHzURM",
+      "lowestPort":3500
   }],
   "version": "v0.1.0"
 }
