@@ -49,6 +49,16 @@
       "website":"http://www.wrkz.work/",
       "discord":"https://discord.gg/GpHzURM",
       "lowestPort":3500
+  }, {
+      "name":"derogold",
+      "tkr":"dego",
+      "api":"https://dego.cncoin.cf/api/",
+      "link":"https://dego.cncoin.cf",
+      "logo":"dego/logo.png",
+      "bitcointalk":"https://bitcointalk.org/index.php?topic=5088519.0",
+      "website":"http://derogold.com",
+      "discord":"https://discord.gg/pXNwCZd",
+      "lowestPort":3400
   }],
   "version": "v0.1.0"
 }
